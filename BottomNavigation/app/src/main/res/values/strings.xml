@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bottom Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notice">Please get your pill from the dispenser\n once it falls.</string>
+
+
+</resources>

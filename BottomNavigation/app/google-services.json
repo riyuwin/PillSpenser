@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "7944633492",
+    "firebase_url": "https://pill-spencer-default-rtdb.firebaseio.com",
+    "project_id": "pill-spencer",
+    "storage_bucket": "pill-spencer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7944633492:android:ffd2d521d6f95ef3180881",
+        "android_client_info": {
+          "package_name": "com.example.bottomnavigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY2vuUsEO-U2TGLXhzS3vLrJ-C5qKpclI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7944633492:android:9767b1b7deebe190180881",
+        "android_client_info": {
+          "package_name": "com.example.smartypill"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY2vuUsEO-U2TGLXhzS3vLrJ-C5qKpclI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
